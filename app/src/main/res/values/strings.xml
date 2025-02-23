@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    +
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="titulo">MI RESTAURANTE</string>
+    <string name="sedes">CONOCE NUESTRAS UBICACIONES</string>
+    <string name="menu">REVISE NUESTRO MENU</string>
+    <string name="reserva">REALICE SU RESERVA</string>
+
+    <!-- Informacion productos -->
+    <string-array name="Entradas">
+        <item>Empanadas</item>
+        <item>Patacones</item>
+        <item>Deditos de queso</item>
+    </string-array>
+    <string-array name="Platos">
+        <item>Arroz con pollo</item>
+        <item>Bandeja paisa</item>
+        <item>Cazuela ranchera</item>
+    </string-array>
+    <string-array name="Bebidas">
+        <item>Jugos en agua</item>
+        <item>Jugos en leche</item>
+        <item>Gaseosas</item>
+        <item>Cervezas</item>
+    </string-array>
+    <string-array name="Postres">
+        <item>Tiramisu</item>
+        <item>Helado</item>
+        <item>Malteada</item>
+    </string-array>
+
+    <string name="title_activity_sede">SedeActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_reserva">ReservaActivity</string>
+</resources>
